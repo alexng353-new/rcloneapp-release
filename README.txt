@@ -6,6 +6,8 @@ You need rclone (https://rclone.org) and winfsp (http://www.secfs.net/winfsp/) t
 
 EDIT THE PROGRAM BEFORE BUILDING SMH
 
+Note: This entire app was made because I was too lazy to type in a command. Simple problem, overly complex solution. This is how we roll.
+
 If you want to use this app or make changes, go clone the repo and make edits to "Gobals.cs"
 
 The variables you want to change are the same as the configs you want to mount
